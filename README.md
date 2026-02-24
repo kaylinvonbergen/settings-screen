@@ -17,10 +17,10 @@ The goal of the app is to demonstrate layout structure, reusable composables, an
 ## Screenshots
 
 ### App opened
-![Settings Screen Open](settings1.png)
+![Settings Screen Open](settings1.jpg)
 
 ### Information changed
-![Settings Screen Modified](settings2.png)
+![Settings Screen Modified](settings2.jpg)
 
 ---
 
