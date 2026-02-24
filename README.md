@@ -1,4 +1,4 @@
- Settings Screen App
+# Settings Screen App
 
 This project is a settings screen built using **Kotlin** and **Jetpack Compose Material 3**.  
 The goal of the app is to demonstrate layout structure, reusable composables, and common settings interactions such as switches, checkboxes, dialogs, and editable user preferences.
